@@ -14,7 +14,7 @@ Players can choose to play again after the game is over.
 <h2>Code Structure</h2>
 The code is structured into several functions that handle different aspects of the game:
 
-Initialization Functions: These functions handle the initialization of the game board and various game variables.
+Initialization Functions: These Functions handle the initialization of the game board and various game variables.
 Drawing Functions: These functions handle the drawing of the game board and various game elements (X's and O's, game over messages, etc.) on the canvas.
 Logical Functions: These functions handle the logical aspects of the game (checking for wins, checking if a grid space is occupied, etc.).
 Mainloop Function: This function handles the main game loop and listens for user input (clicks on the canvas).
